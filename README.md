@@ -1,3 +1,15 @@
 # Photoincat 插件包
 
-朋友推荐的路由器photonicat，编译了些开源的差价，可以直接安装。
+为photonicat路由器，编译了些开源的差价，可以直接安装。
+
+
+## science_net.tar.xz
+科学上网包，有PassWall, Clash, SSR+, 等等
+
+
+## shairplay.tar.xz
+Airplay音乐播放包
+
+
+## transmission.tar.xz
+BT 下载工具
