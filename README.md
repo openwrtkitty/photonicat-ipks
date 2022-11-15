@@ -4,7 +4,7 @@
 
 
 ## science_net.tar.xz
-科学上网包，有PassWall, Clash, SSR+, 等等
+科学上网包，有PassWall, Clash, OpenClash, SSR+, 等等
 
 
 ## shairplay.tar.xz
