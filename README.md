@@ -1,6 +1,6 @@
 # Photoincat 插件包
 
-为photonicat路由器，编译了些开源的差价，可以直接安装。
+为photonicat路由器，编译了些开源的插件，可以直接安装。
 
 
 ## science_net.tar.xz
