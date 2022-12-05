@@ -13,3 +13,9 @@ Airplay音乐播放包
 
 ## transmission.tar.xz
 BT 下载工具
+
+
+## 安装方法：
+浏览器打开： http://172.16.0.1/update， 拖入ipk 或 tar.xz包
+
+[dongdong哥介绍](https://duckduckgo.com).https://www.kancloud.cn/bigdongdong/armgear/3072417）
