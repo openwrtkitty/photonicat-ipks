@@ -28,4 +28,4 @@ uu游戏加速器，路由器集成。
 - 有部分插件可能需要重启系统，建议全部安装完成后点击重启。
 - 然后进入openwrt http://172.16.0.1:8080 看是否已经装好。
 
-[dongdong哥介绍](https://duckduckgo.com).https://www.kancloud.cn/bigdongdong/armgear/3072417）
+[dongdong哥介绍](https://www.kancloud.cn/@bigdongdong/)
